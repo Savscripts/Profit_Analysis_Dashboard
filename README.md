@@ -6,7 +6,7 @@ Tableau dashboard analyzing profit ratios, sales trends, and product category pe
 An interactive Tableau dashboard exploring profit and sales performance  across global regions (APAC, EMEA, LATAM, USCA) from 2016–2019.
 
 ## Dashboard Preview
-[![Profit Analysis Dashboard](https://public.tableau.com/views/Tableau_Part7_17721637470450/ProfitAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+(https://public.tableau.com/views/Tableau_Part7_17721637470450/ProfitAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 > Click the image to view the live, interactive dashboard on Tableau Public.
 
 ## Key Insights
